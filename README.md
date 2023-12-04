@@ -17,17 +17,17 @@ Install the Python packages using `pip`:
 
 You can run simulation by provide the script a QASM file parameter. For example:
 
-``
+```
 python3 run-ddsim.py MQTBench/ghz_indep_qiskit_050.qasm 
-``
+```
 
 ## Advanced Usage
 
 For more detailed information use the help option `--help`:
 
-``
+```
 python3 run-ddsim.py --help
-``
+```
 
 ## Tools
 
@@ -35,9 +35,9 @@ The directory `tools` contains addtional scripts were be used along with the `ru
 
 1. `run-mqt-ddsim.py`
 
-``
+```
 python3 run-mqt-ddsim.py list="all-test.test"
-``
+```
 
 2. `install-required-packages.sh`
 
