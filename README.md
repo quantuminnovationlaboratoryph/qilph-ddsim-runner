@@ -41,9 +41,9 @@ python3 run-mqt-ddsim.py list="all-test.test"
 
 2. `install-required-packages.sh`
 
-``
+```
 chmod +x install-required-packages.sh
 ./install-required-packages.sh
-``
+```
 
 3. `run-tasks.py` 
