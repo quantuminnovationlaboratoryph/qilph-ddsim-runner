@@ -19,8 +19,8 @@ You can run simulation by provide the script a QASM file parameter. For example:
 
     python3 run-ddsim.py MQTBench/ghz_indep_qiskit_050.qasm 
 
+## Advanced Usage
+
 For more detailed information use the help option `--help`:
 
     python3 run-ddsim.py --help
-
-## Ad
