@@ -37,3 +37,5 @@ The directory `tools` contains addtional scripts were be used along with the `ru
 
     chmod +x install-required-packages.sh
     ./install-required-packages.sh
+
+3. `run-tasks.py` 
