@@ -3,15 +3,23 @@
 A python script for simulating a quantum circuit, given as a QASM file, using MQT DDSim quantum circuit simulator.
 
 ## Required Python Packages 
+1. `cotengra`
+1. `kahypar`
+1. `memory_profiler`
 1. `mqt.ddsim`
-2. `qiskit`
-3. `cotengra`
-4. `qiskit-terra`
-5. `memory_profiler`
+1. `opt-einsum`
+1. `projectq`
+1. `qiskit`
+1. `qiskit-aer`
+1. `qiskit-terra`
+1. `quimb`
+1. `sparse`
 
 Install the Python packages using `pip`:
 
-    pip3 install mqt.ddsim qiskit cotengra qiskit-terra memory_profiler
+```
+pip3 install cotengra kahypar memory_profiler mqt.ddsim opt-einsum projectq qiskit qiskit-aer qiskit-terra quimb
+```
 
 ## Basic Usage
 
